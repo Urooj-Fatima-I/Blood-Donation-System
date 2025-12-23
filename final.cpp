@@ -104,7 +104,7 @@ int main() {
 }
 // function definition
 void displayMenu() {
-    cout << "\n1. Press \033[31m1\033[0m to add a donor.\n2. Press \033[31m2\033[0m to view donor list.\n3. Press \033[31m3\033[0m to search donor.\n4. Press \033[31m4\033[0m to view summary.\n5. Press \033[31m5\033[0m to request blood.\n6. About us.\n7. Exit program.\n";
+    cout << "\n1. Press \033[31m1\033[0m to add a donor.\n2. Press \033[31m2\033[0m to view donor list.\n3. Press \033[31m3\033[0m to search donor.\n4. Press \033[31m4\033[0m to view summary.\n5. Press \033[31m5\033[0m to request or donate blood.\n6. About us.\n7. Exit program.\n";
     cout << "\033[31m";
     cout << "\t\t\t--------------------------------------\n";
     cout << "\033[0m";
